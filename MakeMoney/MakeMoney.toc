@@ -1,0 +1,13 @@
+## Interface: 110000
+## Title: MakeMoney
+## Notes: Finds Call to Arms (“coin buff”) and helps you profit, with a clean, bilingual UI.
+## Author: Regin
+## Version: 0.1.0
+## SavedVariables: MakeMoneyDB
+## IconTexture: Interface\AddOns\MakeMoney\media\icon.tga
+
+locale\enUS.lua
+locale\ptBR.lua
+MakeMoney.lua
+MakeMoney_UI.lua
+MakeMoney_Minimap.lua
