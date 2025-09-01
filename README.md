@@ -58,6 +58,15 @@ MakeMoney/
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/images/MakeMoneyEN.png" alt="MakeMoney — English UI" width="48%" />
+  <img src="assets/images//MakeMoneyPT.png" alt="MakeMoney — Portuguese (PT-BR) UI" width="48%" />
+</p>
+
+---
+
 ## Quick Start
 
 - Open the panel: **`/makemoney`**
